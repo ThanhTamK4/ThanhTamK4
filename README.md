@@ -2,6 +2,7 @@
 
 Final-year Computer Science student at **PTIT** (Ho Chi Minh City)  
 Interested in **ML / NLP**, **backend development**, and building tools that actually work.
+Update README/bio for available internship.
 
 \---
 
