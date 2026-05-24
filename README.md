@@ -1,4 +1,4 @@
-# Hi, I'm Tâm 👋
+# Hi, I'm Tâm (or George if you're unfamiliar with my name)
 
 Final-year Computer Science student at **PTIT** (Ho Chi Minh City)  
 Interested in **ML / NLP**, **backend development**, and building tools that actually work.
